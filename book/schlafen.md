@@ -3,7 +3,7 @@ Gesundheit
 
 [Infotext zum schlafen] (https://de.m.wikipedia.org/wiki/Schlaf)
 
-| Nächte | Stundenschlaf |
-| -------| –------------ |
-| 1      | 3             |
+| Nächte | Stunden Schlaf |
+|--------|-–--------------|
+| 1      | 3              |
 
