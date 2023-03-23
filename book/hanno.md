@@ -5,6 +5,6 @@ Das ist ein Beispieltext
 
 [Bildbeschreibung](/public/C155920F-1CD0-4147-960C-5754CD4425C8.jpeg)
 
-| Überschrift 1 | Überschrift 2 |
+| Krasse Überschrift | Überschrift 2 |
 |---------------|---------------|
 | Test1         | Test2         |
